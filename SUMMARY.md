@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [testOTC](testotc.md)
-* testAzure
-* testBari
+* [testAzure](testazure.md)
+* [testBari](testbari.md)
 
