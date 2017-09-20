@@ -6,7 +6,7 @@
 
 [![](/assets/import.png)](https://dciangot.gitbooks.io/dodas-results/content/assets/import.png)
 
-![](/assets/otc_dashboard2.png)
+[![](/assets/otc_dashboard2.png)](https://dciangot.gitbooks.io/dodas-results/content/assets/otc_dashboard2.png)
 
-![](/assets/otc_grafana.png)
+[![](/assets/otc_grafana.png)](https://dciangot.gitbooks.io/dodas-results/content/assets/otc_grafana.png)
 
