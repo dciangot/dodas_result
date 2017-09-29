@@ -1,8 +1,12 @@
 
 
-# CPU usage: % of cpu cycles used/availables
+
 
 # CPU efficiency: CPU time/Run time
+
+Data available in FJR. WMArchive and condor job monitoring is already collecting it, but only for production schedds.
+
+Some CMS studies refs follow:
 
 ![](/assets/cpu_eff.png)![](/assets/cpu_eff2.png)![](/assets/cpu_eff3.png)[https://indico.cern.ch/event/662150/contributions/2703879/attachments/1515249/2364396/Repor\_29\_8\_2017.pdf](https://indico.cern.ch/event/662150/contributions/2703879/attachments/1515249/2364396/Repor_29_8_2017.pdf)
 
@@ -10,9 +14,13 @@
 
 # Validation test on MC \(FNAL\)
 
+A rough estimation of the overall efficiency is the CPU usage of WN dockers as will be shown below. 
+
+CPU usage: % of cpu cycles used/availables
+
 # Avg efficiency ~5% for network waiting ![](/assets/otc_validationSlow.png)
 
-# Validation test on data \(T2\_DE\)![](/assets/otc_validation_fast.png)Avg efficiency ~50%
+# Validation test on nearer data \(T2\_DE\)![](/assets/otc_validation_fast.png)Avg efficiency ~50%
 
 # 
 
