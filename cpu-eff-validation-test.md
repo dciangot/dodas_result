@@ -1,10 +1,12 @@
-
-
-
-
 # CPU efficiency: CPU time/Run time
 
 Data available in FJR. WMArchive and condor job monitoring is already collecting it, but only for production schedds.
+
+wmarchive -&gt; data.payload.performance.cpu.TotalJobCPU/data.payload.performance.cpu.TotalJobTime  : [http://bit.ly/2wnLWW2](http://bit.ly/2wnLWW2)
+
+condor monitoring -&gt; data.CpuEff: [http://bit.ly/2x1JaoX](http://bit.ly/2x1JaoX)
+
+
 
 Some CMS studies refs follow:
 
@@ -14,7 +16,7 @@ Some CMS studies refs follow:
 
 # Validation test on MC \(FNAL\)
 
-A rough estimation of the overall efficiency is the CPU usage of WN dockers as will be shown below. 
+A rough estimation of the overall efficiency is the CPU usage of WN dockers as will be shown below.
 
 CPU usage: % of cpu cycles used/availables
 
