@@ -4,7 +4,33 @@ Data available in FJR. WMArchive and condor job monitoring is already collecting
 
 wmarchive -&gt; data.payload.performance.cpu.TotalJobCPU/data.payload.performance.cpu.TotalJobTime  : [http://bit.ly/2wnLWW2](http://bit.ly/2wnLWW2)
 
-condor monitoring -&gt; data.CpuEff: [http://bit.ly/2x1JaoX](http://bit.ly/2x1JaoX)
+
+
+# XRootD vs Onedata single task comparison
+
+![](/assets/cpuEFF.png)
+
+
+
+![](/assets/cpuTime.png)
+
+
+
+![](/assets/jobTime.png)
+
+
+
+![](/assets/avgTime.png)
+
+
+
+![](/assets/avgCPU.png)
+
+
+
+![](/assets/evts.png)
+
+
 
 
 
