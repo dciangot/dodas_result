@@ -1,10 +1,8 @@
-# DODAS \(50WNs\) vs Grid @BARI with Dmass tasks
+# DODAS \(50WNs\) vs Grid @BARI with Dmass
 
 ### DODAS@BARI
 
 ![](/assets/RecasDODAS_evolution.png)
-
-
 
 ### GRID@BARI
 
